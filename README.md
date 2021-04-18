@@ -25,7 +25,7 @@ More detailed results:
 ### Test yourself!
 If you think I played the sets wrong, you can try to play the(same) sets yourself!
 
-Download(only for Windows): SOON
+Download(only for Windows): https://drive.google.com/file/d/16xbowZ37K9XiXRZSl6io47qE3WJiB6GQ/view?usp=sharing
 
 
 <img src="https://user-images.githubusercontent.com/81371889/115154223-11cc7b80-a07a-11eb-85ad-b6a3c58f8815.png" width="600" height="400">
