@@ -1,14 +1,14 @@
 # OkeyCard
 OkeyCard is a minigame from Metin2, the rules are simply: 
 
-There are 24 cards, 3 colors(Red, Blue, Yellow), 8 cards each with numbers from 1 to 8. 
+There are 24 cards, 3 colors(Red, Blue, Green), 8 cards each with numbers from 1 to 8. 
 The goal of the game is to score at least 400 points, points can be earned by combining cards:
 
 100 points - One by one, cards of same colors (eg. 1R,2R,3R, R - red colour)
 
 10 + 10 * the smallest card number - One by one, cards of different colors (eg. 1R,2B,3R = 20 points, R- red, B- blue)
 
-10 + 10 * number of card - Three cards of the same number(eg. 8R, 8B, 8Y = 90 poitns, R - red, B - blue, Y- yellow)
+10 + 10 * number of card - Three cards of the same number(eg. 8R, 8B, 8G = 90 poitns, R - red, B - blue, G- green)
 
 ## Goal
 Creating a bot so that it plays faster and with better accuracy than the user
