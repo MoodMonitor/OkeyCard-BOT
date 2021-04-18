@@ -26,4 +26,9 @@ More detailed results:
 If you think I played the sets wrong, you can try to play the(same) sets yourself!
 
 Download(only for Windows): SOON
+
+
 <img src="https://user-images.githubusercontent.com/81371889/115154223-11cc7b80-a07a-11eb-85ad-b6a3c58f8815.png" width="600" height="400">
+
+## Future plan
+Make the same bot, but using a Machine Learning model.
