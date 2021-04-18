@@ -21,4 +21,10 @@ More detailed results:
 ### Compare my game with the bot game
 ![Wynikitypu5](https://user-images.githubusercontent.com/81371889/115152794-f6aa3d80-a072-11eb-8d90-d78d1c4798cc.png)
 
+### Test yourself!
+If you think I played the sets wrong, you can try to play the(same) sets yourself!
 
+Download(only for Windows): SOON
+
+
+<img src="https://user-images.githubusercontent.com/81371889/115153427-20b12f00-a076-11eb-880b-df0dfb85c4c6.png" width="600" height="400">
