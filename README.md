@@ -32,6 +32,12 @@ Creating a bot so that it plays faster and with better accuracy than the user
 | :---: | :---: |:---: | :---:|
 | 2932 |1340|45.70%|30.55s|
 
+**UPDATE:** now BOT resign when game is unwinable(impossible to get 400 points), 
+
+| Games played  | Wins(>=400pkt) | Win ratio  | Average time for 1 game |
+| :---: | :---: |:---: | :---:|
+| 2393 |1029|43.00|23.64s|
+
 #### More detailed results:
 <img src="https://user-images.githubusercontent.com/81371889/116786279-04fa4f80-aa9e-11eb-9317-f066b597a51d.png" width="50" height="200">
 
