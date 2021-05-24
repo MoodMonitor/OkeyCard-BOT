@@ -36,7 +36,7 @@ Creating a bot so that it plays faster and with better accuracy than the user
 
 | Games played  | Wins(>=400pkt) | Win ratio  | Average time for 1 game |
 | :---: | :---: |:---: | :---:|
-| 2393 |1029|43.00|23.64s|
+| 11145 |4960|44.50%|23.95s|
 
 #### More detailed results:
 <img src="https://user-images.githubusercontent.com/81371889/116786279-04fa4f80-aa9e-11eb-9317-f066b597a51d.png" width="50" height="200">
