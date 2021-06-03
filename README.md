@@ -41,7 +41,7 @@ Creating a bot so that it plays faster and with better accuracy than the user
 **UPDATE:**
 | Games played  | Wins(>=400pkt) | Win ratio  | Average time for 1 game |
 | :---: | :---: |:---: | :---:|
-| 8206 |3629|44.22%|20.18s|
+| 19348 |8627|44.58%|19.89s|
 - Now BOT can be stopped by pressing and holding "END", and resume with "HOME".
 - If something went wrong(it's MMO game) program will play the music and send notification(with current screenshot from game) to Slack application.
 - Information about games are gathering in Excel file.
